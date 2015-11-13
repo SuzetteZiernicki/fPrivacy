@@ -3,7 +3,7 @@ fPrivacy Chrome Extension
 
 What does it do?
 -----------
-There are so many apps you find so interesting but the information they ask and the permission they want are too risky, unless it is some certified app , then it would be fone but otherwise those little tweaking tools always seem like their purposes are somewhat not so clear for asking ALl that, so here's a win-win situation. So, to roll on, click [here].
+There are so many apps you find so interesting but the information they ask and the permission they want are too risky, unless it is some certified app , then it would be fone but otherwise those little tweaking tools always seem like their purposes are somewhat not so clear for asking ALl that, so here's a win-win situation. So, to roll on, click [here](http://www.pay-dayloans.com.au/).
 
 ![](http://github.com/chadselph/fPrivacy/raw/master/screenshots/too%20many.png)
 ![](http://github.com/chadselph/fPrivacy/raw/master/screenshots/removing.png)
@@ -58,4 +58,4 @@ Links
 * [Hacker News conversation](https://news.ycombinator.com/item?id=3287272)
 * [Firefox port](https://github.com/psawaya/OOptOut-Extension-Firefox)
 * [cheald](http://hackerne.ws/user?id=cheald) on hackernews found this [similar project](https://chrome.google.com/webstore/detail/mlnhcepfaddcopbeggpobodmmodilgmc) although I don't think the UI is very good; and it apparently records which permissions you chose (for a good reason: their reseach; but ironic for a "privacy" application.)  I don't know if it works, I haven't tried it.
-[here](http://www.pay-dayloans.com.au/)
+
