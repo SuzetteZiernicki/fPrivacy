@@ -3,7 +3,7 @@ fPrivacy Chrome Extension
 
 What does it do?
 -----------
-There are so many apps you find so interesting but the information they ask and the permission they want are too risky, unless it is some certified app , then it would be fone but otherwise those little tweaking tools always seem like their purposes are somewhat not so clear for asking ALL that, so here's a win-win situation. So, to roll on, click [here](http://www.pay-dayloans.com.au/).
+There are so many apps you find so interesting but the information they ask and the permission they want are too risky, unless it is some certified app , then it would be fone but otherwise those little tweaking tools always seem like their purposes are somewhat not so clear for asking ALL that, so a win-win situation to roll on is [here](http://www.pay-dayloans.com.au/).
 
 ![](http://github.com/chadselph/fPrivacy/raw/master/screenshots/too%20many.png)
 ![](http://github.com/chadselph/fPrivacy/raw/master/screenshots/removing.png)
